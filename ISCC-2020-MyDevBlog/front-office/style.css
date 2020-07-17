@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "icetea" ;
+    src: url(Icetea.otf);
+} 
+
+@font-face {
+    font-family: "Caviar";
+    src: url(CaviarDreams.ttf)
+}
+
+html {
+    font-size: 14px;
+    font-family: "Caviar";
+    background-color: #cde4f1 ;
+}
+
+
+
+header {
+    background-image: url(photo_bandeau.jpeg);
+    vertical-align: 150px;
+}
+
+h1 {
+    font-family: "icetea";
+    font-size: 50px;
+    color: #a6e1f1;
+    height: 90px;
+    line-height: 90px;
+    text-align: center; 
+}
+
+nav {
+    display: run-in ;
+    background-color: #95c6d3;
+    padding-right: 50px;
+    margin: 50px;
+    color: white; 
+    text-align: middle;
+    vertical-align: middle;
+}
+
+
+footer {
+    align-items: center;
+    background-color: rgb(140, 190, 202);
+}
+
+h2 {
+    text-transform: uppercase;
+    color: rgb(20, 139, 185);
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+div {
+    text-align: center;
+}
+
